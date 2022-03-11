@@ -1,0 +1,55 @@
+FAS : 51697
+FIRE ALARM SYSTEM
+SERVICE REPORT
+Name of Company: SP POWERASSETS LTD Date Of Attendance: 2022-02-07
+Location/Building Name: SP/S/LABRADOR ANNEX Time In: 08:00 Time Out: 10:00
+Mode Of Test: Monthly Our Technician: Tajmul
+
+CHECKLIST FOR THE SERVICING
+1 Monthly/Annually Test - Battery cabinet is not corroded and batteries are stored in a secured condition.
+2 Monthly/Annually Test - Battery supply disconnected. Visual and audible fault signal activated at the main alarm panel.
+3 Monthly/Annually Test - Main power supply failure simulated. System operated correctly with the standby battery power supply.
+4 Monthly/Annually Test - Fire Alarm Conditions simulated; output signals available to initiate remote ancillary functions.
+5 Monthly/Annually Test - Fault conditions on all alarm zones simulated; Main alarm panel operating correctly.
+6 Monthly/Annually Test - Condition of components, terminations and cables are visually inspected.
+7 Monthly/Annually Test - All switched returned to their operating position after the test.
+
+Main Sub Heat Smoke Manual
+Block Street Storey Panel Panel Detector Detector Call Auxiliary Battery Decam Alarm Serviced Isolated
+Qty Qty Qty Qty Point Voltage Sounder
+Qty
+LABRADOR 400KV 1 SAP-1 13 - 3 26.6v
+ANNEX A
+Remarks: Testing L-2&1 system in order
+SAP-
+SP/S/LABRADOR - Annex 8 - 3 26.8v
+ANNEX B 1,2,3 B
+Remarks: Annex B SAP zone-1 sc-1 flame detector faulty isolated need to replace.
+SP/S/LABRADOR - SAP-2 24 - 3 26.8v
+ANNEX 2
+Remarks: Testing and system in order
+SP/S/LABRADOR - SAP-3 54 - 3 26.7v
+ANNEX 3
+Remarks: System in order
+SP/S/LABRADOR - SAP-4 24 12 3 26.8v
+ANNEX 4
+Remarks: System in order
+
+Page 1 Of 2Name of Company: SP POWERASSETS LTD
+Location/Building Name: SP/S/LABRADOR ANNEX
+Mode Of Test: Monthly
+Date Of Attendance: 2022-02-07
+Time In: 08:00 Time Out: 10:00
+Our Technician: Tajmul
+
+Customer's Remarks:
+
+Acknowledgement By Customer
+
+Customer's Signature
+Name : Rajoo
+IC :
+HP :
+Email :
+
+Page 2 Of 2
